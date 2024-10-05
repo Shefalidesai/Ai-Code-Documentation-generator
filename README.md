@@ -43,5 +43,3 @@ To get started with the AI Code Documentation Generator, follow these steps:
 
 ## About
 The AI Code Documentation Generator aims to simplify the process of generating comprehensive code documentation, making it accessible and efficient for developers.
-
-```
