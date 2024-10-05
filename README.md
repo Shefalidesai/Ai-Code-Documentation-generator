@@ -12,8 +12,8 @@ To get started with the AI Code Documentation Generator, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YourUsername/ai-code-documentation-generator](https://github.com/Shefalidesai/Ai-documentation-generator/).git
-   cd ai-code-documentation-generator
+   git clone https://github.com/Shefalidesai/Ai-documentation-generator.git
+   cd Ai-code-documentation-generator
    ```
 
 2. **Install the dependencies**
