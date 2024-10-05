@@ -1,4 +1,4 @@
-# Ai-documentation-generator
+# Ai-Codedocumentation-generator
 ## Features
 - AI-powered code documentation generation
 - User-friendly interface with responsive design
