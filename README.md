@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
 
 ## Example Screenshot
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Add+a+project+screenshot)
-
+[![screenshot](https://via.placeholder.com/800x400.png?text=Add+a+project+screenshot)
+](https://github.com/Shefalidesai/Ai-Code-Documentation-generator/blob/main/Screenshot-1.jpeg)
 ---
 
 Feel free to replace the screenshot placeholder link with an actual screenshot of your project in action.
